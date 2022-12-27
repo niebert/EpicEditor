@@ -1,4 +1,4 @@
-# ![EpicEditor](http://epiceditor.com/docs/images/epiceditor-logo.png)
+# ![EpicEditor](docs/images/epiceditor-logo.png)
 
 ## An Embeddable JavaScript Markdown Editor
 
