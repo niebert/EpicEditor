@@ -1,7 +1,3 @@
-# ⚠️ DEPRECATION WARNING
-
-This repository is no longer actively maintained. 
-
 # ![EpicEditor](http://epiceditor.com/docs/images/epiceditor-logo.png)
 
 ## An Embeddable JavaScript Markdown Editor
