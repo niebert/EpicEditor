@@ -1,7 +1,7 @@
 # ![EpicEditor](docs/images/epiceditor-logo.png)
 
 ## Demo of EpicEditor
-* <a href="https://niebert.github.io/niebert/EpicEditor">/<h3>Demo EpicEditor</h3></a>
+* <h3><a href="https://niebert.github.io/niebert/EpicEditor" target="_blank">Demo EpicEditor</a></h3>
 
 ## An Embeddable JavaScript Markdown Editor
 
