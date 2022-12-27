@@ -1,5 +1,8 @@
 # ![EpicEditor](docs/images/epiceditor-logo.png)
 
+## Demo of EpicEditor
+* <a href="https://niebert.github.io/niebert/EpicEditor">/<h3>Demo EpicEditor</h3></a>
+
 ## An Embeddable JavaScript Markdown Editor
 
 EpicEditor is an embeddable JavaScript [Markdown](http://daringfireball.net/projects/markdown/) editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more. For developers, it offers a robust API, can be easily themed, and allows you to swap out the bundled Markdown parser with anything you throw at it.
